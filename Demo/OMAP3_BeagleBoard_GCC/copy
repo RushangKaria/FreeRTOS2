@@ -1,0 +1,1 @@
+sudo cp -fv ./rtosdemo.bin /media/esp/boot/
